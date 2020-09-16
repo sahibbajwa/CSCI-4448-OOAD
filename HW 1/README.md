@@ -1,3 +1,2 @@
 # Homework 1
-# Project Team:
-Sahib Bajwa
+** Project Team: ** Sahib Bajwa

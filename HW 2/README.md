@@ -9,4 +9,5 @@ I made a good ammount of assumptions as to how simple I could make the project. 
 Large ammount of issues getting started with the UMLs. I also believe that I did not do project 1 the best, my project 2 is a bit chaotic when it comes to where the functions are called from (where they live).
 
 ### Running the Application:
-I run the application by running the main function/class in Eclipse IDE, I generated the UMLs using Visual Paradigm along with Eclipse.
+I run the application by running the main function/class in Eclipse IDE, I generated the UMLs using Visual Paradigm along with Eclipse. I ran the main function for 7 days like in Project 1.
+

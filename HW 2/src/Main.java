@@ -103,7 +103,7 @@ public class Main {
 					break;
 					
 				case "11 AM":
-					zoey.rollcallAnimals();
+					zoey.rollcallAnimals(nameList);
 					System.out.println();
 					break;
 				

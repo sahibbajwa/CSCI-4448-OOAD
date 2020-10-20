@@ -1,0 +1,339 @@
+JUnit Tests:
+We can create a casual customer successfully
+A customer can purchase a spring roll successfully.
+End of JUnit Tests. 
+
+Day #: 1
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 3 customers and is now closed.
+
+Day #: 2
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 4 customers and is now closed.
+
+Day #: 3
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 10 customers and is now closed.
+
+Day #: 4
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 8 customers and is now closed.
+
+Day #: 5
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 6 customers and is now closed.
+
+Day #: 6
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 6 customers and is now closed.
+
+Day #: 7
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 10 customers and is now closed.
+
+Day #: 8
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 5 customers and is now closed.
+
+Day #: 9
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 7 customers and is now closed.
+
+Day #: 10
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 9 customers and is now closed.
+
+Day #: 11
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 4 customers and is now closed.
+
+Day #: 12
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 9 customers and is now closed.
+
+Day #: 13
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 11 customers and is now closed.
+
+Day #: 14
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 1 customers and is now closed.
+
+Day #: 15
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 9 customers and is now closed.
+
+Day #: 16
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 1 customers and is now closed.
+
+Day #: 17
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 12 customers and is now closed.
+
+Day #: 18
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 3 customers and is now closed.
+
+Day #: 19
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 2 customers and is now closed.
+
+Day #: 20
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 7 customers and is now closed.
+
+Day #: 21
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 10 customers and is now closed.
+
+Day #: 22
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 6 customers and is now closed.
+
+Day #: 23
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 3 customers and is now closed.
+
+Day #: 24
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 6 customers and is now closed.
+
+Day #: 25
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 3 customers and is now closed.
+
+Day #: 26
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 9 customers and is now closed.
+
+Day #: 27
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+Hi, this is the Store Announcer. Currently: The store has served 7 customers and is now closed.
+
+Day #: 28
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: hot sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 9 customers and is now closed.
+
+Day #: 29
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: no sauce
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 3 customers and is now closed.
+
+Day #: 30
+
+Hi, this is the Store Announcer. Currently: The store opens and has a full inventory.
+A casualCustomer buys a springRoll with: hot sauce
+Hi, this is the Store Announcer. Currently: The store has served 1 customers and is now closed.
+

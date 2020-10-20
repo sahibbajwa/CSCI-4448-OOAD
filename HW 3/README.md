@@ -7,7 +7,7 @@ Sahib Bajwa
 ### Assumptions:
 One of the large assumptions I had was how the decorator was implemented. This is the first time that I am using/implementing a decorator, but I believe that it is implemented right. The original interface should only have the method name inside - and the class that implements the interface has the implementation of the method that will be changed by the decorator - and the class that extends the decorator has the actual changes inside.
 
-Another assumption I had about the project as a whole was that I could complete it by myself within a reasonable time whilst behind in the class overall. Again, thanks Professor for the help.
+Another assumption I had about the project as a whole was that I could complete it by myself within a reasonable time whilst behind in the class overall. Again, thanks for the help Professor.
 
 ### Issues Encountered:
 I could not get JUnit 5 to work on my machine/eclipse. I simply went with JUnit 4 and everything worked fine.

@@ -5,7 +5,7 @@ Sahib Bajwa
 ### I spoke with Professor Montgomery and my project 3 is different than the original project 3. He also said that he would grade it himself. Sorry if this causes any inconveniences/misunderstandings.
 
 ### Assumptions:
-One of the large assumptions I had was how the decorator was implemented. This was the first time that I was using a decorator, so I believe that it was implemented right. The original interface should only have the method name inside, and the class that implements the interface has the implementation of the method that will be changed by the decorator and the class that extends the decorator.
+One of the large assumptions I had was how the decorator was implemented. This is the first time that I am using/implementing a decorator, but I believe that it is implemented right. The original interface should only have the method name inside - and the class that implements the interface has the implementation of the method that will be changed by the decorator - and the class that extends the decorator has the actual changes inside.
 
 Another assumption I had about the project as a whole was that I could complete it by myself within a reasonable time whilst behind in the class overall. Again, thanks Professor for the help.
 
@@ -54,10 +54,13 @@ In our meeting, these were the changes you told me about to reduce the scope for
     * I did this by using a decorator to add functionality to the Sauce interface
       * Now, there can be no sauce or hot sauce added to the roll (randomly)
       
-
 * There are only 2 JUnit tests
   * The first test makes sure that we can create a casual customer successfully
   * The second test makes sure that a casual customer can purchase a spring roll successfully
+  
+ * Do not need to do the UML Diagrams 
+ 
+ * Do not do the extra credit (4 Java-based graph/chart images of the simulation data)
  
 ### Ending Note (similar to email):
 Sorry for turning this in to you so late, I had some personal stuff come up that took away a lot of my time I had planned to complete the project earlier last week.
